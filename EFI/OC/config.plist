@@ -1835,7 +1835,7 @@
 		<key>Generic</key>
 		<dict>
 			<key>MLB</key>
-			<string>F5K927303GUK3F7CB</string>
+			<string>00000000000000000</string>
 			<key>ROM</key>
 			<data>
 			ESIzAAAA
@@ -1845,9 +1845,9 @@
 			<key>SystemProductName</key>
 			<string>MacPro7,1</string>
 			<key>SystemSerialNumber</key>
-			<string>F5KZ1CY5P7QM</string>
+			<string>000000000000</string>
 			<key>SystemUUID</key>
-			<string>B4F88D01-5735-4921-B6D8-FD819A38EBF3</string>
+			<string>05053f32-e64d-11ea-adc1-0242ac120002</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
